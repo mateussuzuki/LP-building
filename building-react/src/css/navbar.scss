@@ -1,3 +1,11 @@
 .white {
   background-color: #FFFBF5;
 }
+
+.nav-link, h5 {
+  font-weight: bolder !important;
+}
+
+.nav-link.active {
+  color: #F9A300 !important;
+}
